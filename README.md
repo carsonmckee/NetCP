@@ -12,7 +12,7 @@ A description of each directory is given below:
 
 ## 🛠️ Compiler Requirement
 
-This project requires the **g++ compiler** to build and run the MCMC C++ code.
+If you wish to re-run the MCMC from scratch, a **g++ compiler** is required to build and run the C++ code. 
 
 ### Installation Instructions
 
