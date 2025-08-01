@@ -8,7 +8,7 @@ A description of each directory/file is given below:
 * `eeg` Contains all data and scripts to reproduce the eeg results from scratch. Also contains the pre-computed results which are used in the papers plots.  
 * `seismic` Contains all data and scripts to reproduce the seismology results from scratch. Also contains the pre-computed results which are used in the papers plots.  
 * `sampler_comparison` Contains code to reproduce the comparison of different MCMC samplers given in the appendix of the paper.  
-* `src` Contains the raw C++ source code to implement the NetCP model along with the models of Yao (1984) and Quinlan et al. (2024) using both particle MCMC and single site gibbs samplers.  
+* `src` Contains the raw C++ source code to perform MCMC on the NetCP model model along with the models of Yao (1984) and Quinlan et al. (2024) using both particle MCMC and single site gibbs samplers.  
 
 ## 🛠️ Compiler Requirement
 
