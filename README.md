@@ -1,6 +1,6 @@
 # NetCP: Network Modelling of Asynchronous Change-Points in Multivariate Time Series
 
-This repository contains the code to reproduce the results from the paper 'Network Modelling of Asynchronous Change-Points in Multivariate Time Series (McKee & Kalli, 2025)' which is available on arxiv [here](https://arxiv.org/abs/2506.15801).
+This repository contains the code to reproduce the results from the paper 'Network Modelling of Asynchronous Change-Points in Multivariate Time Series' (McKee & Kalli, 2025) which is available on arxiv [here](https://arxiv.org/abs/2506.15801).
 
 A description of each directory is given below:
 1. **plots_notebook.ipynb**: Provides step by step guidance to reporduce all plots and tables in the paper. This can be done by using the pre-computed results available in this repository, or by re-running the MCMC from scratch.
