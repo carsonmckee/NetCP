@@ -24,4 +24,6 @@ This project requires the **g++ compiler** to build and run the MCMC C++ code.
 - **Windows**  
   Install [MinGW-w64](https://www.mingw-w64.org/) or use [MSYS2](https://www.msys2.org/).
   After installation, ensure g++ is added to your system PATH.
-  You can verify it by running: g++ --version
+  You can verify it by running:
+  ```bash
+  g++ --version
