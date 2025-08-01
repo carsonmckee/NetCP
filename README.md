@@ -2,8 +2,8 @@
 
 This repository contains the code to reproduce the results from the paper 'Network Modelling of Asynchronous Change-Points in Multivariate Time Series' (McKee & Kalli, 2025) which is available on arxiv [here](https://arxiv.org/abs/2506.15801).
 
-A description of each directory is given below:
-1. **plots_notebook.ipynb**: Provides step by step guidance to reporduce all plots and tables in the paper. This can be done by using the pre-computed results available in this repository, or by re-running the MCMC from scratch.
+A description of each directory/file is given below:
+```bash plots_notebook.ipynb Provides step by step guidance to reporduce all plots and tables in the paper. This can be done by using the pre-computed results available in this repository, or by re-running the MCMC from scratch.
 2. **sim_study**: Contains the results from the simulation study. This was performed on a high performance computing cluster (approx 200 nodes) and so only the cluster results + plotting code is given here.
 3. **eeg**: Contains all data and scripts to reproduce the eeg results from scratch. Also contains the pre-computed results which are used in the papers plots.
 4. **seismic**: Contains all data and scripts to reproduce the seismology results from scratch. Also contains the pre-computed results which are used in the papers plots.
